@@ -1,0 +1,55 @@
+.one {
+    background-color: beige;
+    padding: 25px;
+    margin: 40px 700px 40px 30px;
+    font-size:20px 20px 20px 20px;
+    
+    
+    
+    
+}
+
+.two{
+    flex{
+        flex-direction: column;
+        
+    }
+}
+
+.three {
+    border: solid 60px; color: rgb(209, 183, 183); margin: 25px 520px 25px 25px;
+    
+    
+}
+
+.four{
+    background-color: rgb(209, 183, 183) ;
+    font-size: 20px;
+    padding: 25px 50px;
+    margin: 50px 100px;
+    
+
+}
+.seven{
+   font-size: 20px;
+   background-color: rgb(133, 206, 181); 
+   padding: 20px;
+   margin: 20px 900px 20px 20px;
+   
+}
+
+ul{
+    color:rgb(73, 215, 179);
+    font-size: 20px;
+}
+
+h2{
+    color:rgb(73, 148, 148);
+    font-size:20px;
+}
+.five{
+    background-color: beige;
+    margin: 40px 120px 20px 120px;
+    padding: 20px;
+    
+}
