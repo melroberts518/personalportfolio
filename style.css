@@ -36,7 +36,7 @@
    font-size: 20px;
    background-color: rgb(133, 206, 181); 
    padding: 20px;
-   margin: 20px 20px 20px 800px;
+   margin: 20px 20px 20px 700px;
    display: flex;
    flex-direction: column;
    align-items: flex-end;
@@ -54,7 +54,7 @@ h2{
 }
 .five{
     background-color: beige;
-    margin: 40px 120px 20px 120px;
+    margin: 40px 400px 20px 120px;
     padding: 20px;
     
 }
