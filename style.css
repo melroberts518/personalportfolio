@@ -36,10 +36,10 @@
    font-size: 20px;
    background-color: rgb(133, 206, 181); 
    padding: 20px;
-   margin: 20px 20px 20px 20px;
+   margin: 20px 20px 20px 900px;
    display: flex;
    flex-direction: column;
-   justify-content: flex-end;
+   align-items: flex-end;
    
 }
 
